@@ -9,7 +9,7 @@
     <toc-element topic="api-docs.md"/>
     <toc-element topic="API-quickstart.md"/>
     <toc-element topic="API-reference.md">
-        <toc-element topic="____Pet.md">
+        <toc-element topic="Pet.md">
         </toc-element>
         <toc-element toc-title="Store">
             <toc-element topic="Returns-pet-inventories-by-status.md"/>
@@ -23,7 +23,7 @@
             <toc-element topic="Logs-user-into-the-system.md"/>
             <toc-element topic="Logs-out-current-logged-in-user-session.md"/>
             <toc-element topic="Get-user-by-user-name.md"/>
-            <toc-element topic="_____Update-user.md"/>
+            <toc-element topic="Update-user.md"/>
             <toc-element topic="Delete-user.md"/>
         </toc-element>
     </toc-element>
